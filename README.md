@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66e3f7a3f34c8868ecf3834f?variant=dark)](https://roadmap.sh)
+
 <!--
 **nktt-s/nktt-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
